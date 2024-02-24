@@ -1,4 +1,4 @@
-![MasterHead](Screenshot 2024-02-24 125538.png)
+![MasterHead](flixy.png)
 
 <h1 align="center">Netflix Landing Page UI Clone</h1>
 <h3 align="center"> A responsive & interactive Netflix landing page clone doen as a Frontend project </h3>
