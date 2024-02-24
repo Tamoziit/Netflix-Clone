@@ -18,7 +18,7 @@
 
 # Demo
 
-https://github.com/Tamoziit/Musica-app/assets/147103492/804e7db2-997a-40da-9520-c46f6d87b2ef
+https://github.com/Tamoziit/Netflix-Clone/assets/147103492/4cce856d-8f9e-491d-b329-be73c6055a13
 
 
 <h4 align="left">Check it out here! &#128526;</h4>
